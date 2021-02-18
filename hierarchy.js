@@ -58,5 +58,6 @@ var hierarchy =
     [ "Time_point", "classge211_1_1time_1_1_time__point.html", null ],
     [ "Timer", "classge211_1_1time_1_1_timer.html", null ],
     [ "Transform", "classge211_1_1geometry_1_1_transform.html", null ],
+    [ "unbounded_type", "classge211_1_1unbounded__type.html", null ],
     [ "Window", "classge211_1_1_window.html", null ]
 ];
